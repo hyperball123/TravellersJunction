@@ -1,0 +1,15 @@
+.createAcc-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  flex-direction: column;
+}
+
+
+.createAcc-form {
+  background-color: aquamarine;
+  padding: 4rem;
+  
+}
